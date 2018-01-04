@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Chat</string>
+    <string name="title_main">Select chat mode</string>
+    <string name="button_realtime">Enter to realtime database chat</string>
+    <string name="button_firestore">Enter to firestore database chat</string>
+    <string name="textempty">Nothing message here, please type at the bottom</string>
+    <string name="hint_edit_text">Type here</string>
+    <string name="send">Send message</string>
+</resources>
